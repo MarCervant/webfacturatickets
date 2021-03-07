@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae volup
 
 * **Teléfono: +528130754425**
 
-  **Correo: info**
+  **Correo: inf**
 * **Dirección: 360 Main rd, Rio, Brasil**
