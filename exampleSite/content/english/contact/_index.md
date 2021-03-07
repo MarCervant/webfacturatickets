@@ -2,6 +2,7 @@
 title: Contactanos
 subtitle: ''
 description: Contacta App Factura Tickets
+draft: true
 
 ---
 ### Contacta para una demo!
@@ -10,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae volup
 
 * **Teléfono: +528130754425**
 
-  **Correo: info @ bigspring.**
+  **Correo: info**
 * **Dirección: 360 Main rd, Rio, Brasil**
