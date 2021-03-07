@@ -9,6 +9,7 @@ sections:
 - type: document
   path: exampleSite/data/homepage.yml
   label: Homepage Data
+  read_only: false
 - type: heading
   label: Blog Post
 - type: document
