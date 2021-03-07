@@ -8,6 +8,7 @@ description: Contacta App Factura Tickets
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-* **Teléfono: +88125256452**
-* **Correo: info@bigspring.com**
+* **Teléfono: +528130754425**
+
+  **Correo: info @ bigspring.**
 * **Dirección: 360 Main rd, Rio, Brasil**
