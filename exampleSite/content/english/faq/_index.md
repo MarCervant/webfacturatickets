@@ -4,9 +4,9 @@ subtitle: App Factura Tickets
 description: Preguntas Frecuentes de la App Factura Tickets
 
 ---
-{{< faq "Qué es la cuenta del SAT?" >}} 
+{{< faq "Porque es importante facturar mis gastos?" >}}
 
-Es importante conconer la diferencia entre, tu contraseña de la aplicación, contraseña del SAT y contraseña de la Firma electronica.
+El solicitar una factura de tus gastos se vuelve algo tan importante debido a que con estos puedes disminuir el pago en tu declaración mensual, y así quizás lograr tener un saldo a favor en ella y así librarte de los impuestos.
 
 {{</ faq >}}
 
