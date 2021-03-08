@@ -2,6 +2,7 @@
 title: Preguntas Frecuentes
 subtitle: App Factura Tickets
 description: Preguntas Frecuentes de la App Factura Tickets
+draft: true
 
 ---
 {{< faq "Porque es importante facturar mis gastos?" >}}
