@@ -6,7 +6,9 @@ description: Preguntas Frecuentes de la App Factura Tickets
 ---
 {{< faq "Porque es importante facturar mis gastos?" >}}
 
-El solicitar una factura de tus gastos se vuelve algo tan importante debido a que con estos puedes disminuir el pago en tu declaración mensual, y así quizás lograr tener un saldo a favor en ella y así librarte de los impuestos.
+Por una parte las aplicaciones digitales se encargan de facturar tus ingresos de forma mensual desde el momento en el cual tu como conductor subes tus sellos digitales ala aplicación, por lo cual a nosotros nos corresponde solicitar una factura de los gastos realizados en el mes como lo son en combustible, casetas, autolavado, datos móviles, refacciones, etc. 
+
+¿Y para que debo solicitar la factura? El solicitar una factura de tus gastos se vuelve algo importante debido a que con estos podemos disminuir el pago en tu declaración mensual, y si se lleva un buen control, quizás llegar a lograr tener un saldo a favor en ella y así librarte de los malditos impuestos.
 
 {{</ faq >}}
 
