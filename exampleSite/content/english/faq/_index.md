@@ -18,7 +18,7 @@ Es una app diseñada para conductores de plataformas tecnológicas, que facilita
 
 {{< faq "Cuales son las funciones de FacturaTicket?" >}}
 
-Como función principal FacturaTicket ofrece encargase de facturar tus ticket de gastos de manera mas rápida y sencilla de lo habitual, además brindándote un apartado en el cual puedas observar de manera grafica el total de tus gastos facturados al momento durante el mes y llevar un control de tu contabilidad.
+Como función principal FacturaTicket ofrece encargase de facturar tus ticket de gastos de manera más rápida y sencilla, además brindándote un apartado en el cual puedas observar de manera grafica el total de tus gastos facturados al momento durante el mes y llevar un control de tu contabilidad.
 
 {{</ faq >}}
 
