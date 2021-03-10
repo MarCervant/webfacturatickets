@@ -16,6 +16,8 @@ Por una parte las aplicaciones digitales se encargan de facturar tus ingresos de
 
 Es una app diseñada para conductores de plataformas tecnológicas, que facilita la facturación de tus ticket de gastos, dándote la facilidad de poder facturarlos con el simple gesto de escanearlos con tu cámara y listo, tendrás tus cuentas al día y no malgastaras gran parte de tu tiempo.
 
+Además brindarte el respaldo de al facturar tus gastos poder disminuir el pago de tus impuestos ante el SAT por no llevar un control de tus gastos.
+
 {{</ faq >}}
 
 {{< faq "Cuales son las funciones de FacturaTicket?" >}}
