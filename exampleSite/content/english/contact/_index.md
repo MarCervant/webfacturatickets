@@ -8,7 +8,7 @@ description: Contacta App Factura Tickets
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-* **Teléfono: +528130754425**
+* **Teléfono: +52 8130754425**
 
-  **Correo: inf**
-* **Dirección: 360 Main rd, Rio, Brasil**
+  **Correo: contabilidad@mjcontadores.page**
+* **Dirección: Santa Cruz, Gpe, Mty, N.L.**
