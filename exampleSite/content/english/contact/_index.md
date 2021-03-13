@@ -10,7 +10,7 @@ Como ya lo sabes, FacturaTicket es administrada por Martinez & Jines Contadores,
 
 Para ser atendido por un contador puedes comunicarte directamente a:
 
-* **Teléfono: +52 8130754425**
-* **Correo: facturaticket@mjcontadores.page**
+* **Teléfono:** +52 8130754425
+* **Correo:** facturaticket@mjcontadores.page
 * **Web:** [https://martinezjinescontadores.negocio.site](https://martinezjinescontadores.negocio.site/?utm_source=gmb&utm_medium=referral "https://martinezjinescontadores.negocio.site/?utm_source=gmb&utm_medium=referral")
-* **Dirección: Santa Cruz, Gpe, N.L.**
+* **Dirección:** Cadmio #217 Santa Cruz, Gpe, N.L.
