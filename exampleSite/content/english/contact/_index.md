@@ -10,5 +10,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae volup
 
 * **Teléfono: +52 8130754425**
 
-  **Correo: contabilidad@mjcontadores.page**
+  **Correo: facturaticket@mjcontadores.page**
 * **Dirección: Santa Cruz, Gpe, N.L.**
