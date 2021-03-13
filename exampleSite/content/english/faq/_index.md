@@ -22,7 +22,7 @@ Además brindarte el respaldo de al facturar tus gastos poder disminuir el pago 
 
 {{< faq "Cuales son las funciones de FacturaTicket?" >}}
 
-Como función principal FacturaTicket ofrece un sistema de facturación fácil y sencillo en cual el usuario escanea el ticket de compra de uno de sus gastos con la cámara de su móvil y FacturaTicket se encargara de facturarlo por ti; además te brinda un apartado dentro de la app en cual puedas observar de manera grafica el total de tus gastos facturados al momento y así poder llevar un control de tu contabilidad desde tu celular.
+Como función principal FacturaTicket ofrece un sistema de facturación fácil y sencillo en cual el usuario escanea el ticket de compra de uno de sus gastos con la cámara de su móvil y FacturaTicket se encargará de facturarlo por ti; además te brinda un apartado dentro de la app en cual puedas observar de manera grafica el total de tus gastos facturados al momento y así poder llevar un control de tu contabilidad desde tu celular.
 
 {{</ faq >}}
 
@@ -35,6 +35,10 @@ Claro!, FacturaTicket es representada por un despacho contable enfocado en conta
 {{</ faq >}}
 
 {{< faq "Para quien esta dirigida FacturaTicket?" >}}
+
+FacturaTicket está única y exclusivamente dirigida para el uso de conductores de plataformas digitales, con el fin de eficientar el trabajo de facturación de sus gastos, el cual es la mayoría de las veces realizado por el propio conductor a pesar de contar ya con el apoyo de un contador para su declaración.
+
+FacturaTicket puede ser usada por miembros del despacho, conductores independientes que solo buscan el apoyo de la app y conductores que ya cuenten con su propio contador de confianza pero que este no les brinda el apoyo de facturación de gastos.
 
     {{</ faq >}}
 
