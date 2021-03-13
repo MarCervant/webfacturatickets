@@ -28,9 +28,9 @@ Como función principal FacturaTicket ofrece un sistema de facturación fácil y
 
 {{< faq "Pueden ayudarme a presentar mi declaración?" >}}
 
-Claro, FacturaTicket es representada por un despacho contable enfocado en contabilidad a conductores de plataformas digitales, por lo cual podemos apoyarte sin problema.
+Claro!, FacturaTicket es representada por un despacho contable enfocado en contabilidad a conductores de plataformas digitales, por lo cual podemos apoyarte sin problema.
 
-¿Qué tienes que hacer para ayudarte? Solo es necesario mandarnos un Whatsapp al +52 8130754425 o comunicarte por  correo a "contabilidad@mjcontadores.page" y obtendrás el apoyo de un contador especializado al momento.
+¿Qué tienes que hacer para poder apoyarte? Solo es necesario mandarnos un Whatsapp al +52 8130754425 o comunicarte por  correo a "facturaticket@mjcontadores.page" y obtendrás el apoyo de un contador especializado al momento.
 
 {{</ faq >}}
 
